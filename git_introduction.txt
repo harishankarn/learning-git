@@ -1,2 +1,4 @@
-"watch this video
-"https://www.youtube.com/watch?v=8JJ101D3knE
+
+# Watch this video to learn the basics of git and how to use its functions and features`
+
+------> https://www.youtube.com/watch?v=8JJ101D3knE <------
